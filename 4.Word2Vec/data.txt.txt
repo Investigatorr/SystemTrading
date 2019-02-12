@@ -1,0 +1,7 @@
+﻿데이터 용량이 너무 커서 링크로 대체.
+
+kowiki-dump:
+	https://dumps.wikimedia.org/kowiki/latest/
+
+kowiki-tutorial:
+	https://wikidocs.net/22660
